@@ -1,0 +1,15 @@
+C:\Users\Иришка\Desktop\ws 8\bin\Debug\net6.0\ws 8.exe
+C:\Users\Иришка\Desktop\ws 8\bin\Debug\net6.0\ws 8.deps.json
+C:\Users\Иришка\Desktop\ws 8\bin\Debug\net6.0\ws 8.runtimeconfig.json
+C:\Users\Иришка\Desktop\ws 8\bin\Debug\net6.0\ws 8.dll
+C:\Users\Иришка\Desktop\ws 8\bin\Debug\net6.0\ws 8.pdb
+C:\Users\Иришка\Desktop\ws 8\obj\Debug\net6.0\ws 8.csproj.AssemblyReference.cache
+C:\Users\Иришка\Desktop\ws 8\obj\Debug\net6.0\ws 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иришка\Desktop\ws 8\obj\Debug\net6.0\ws 8.AssemblyInfoInputs.cache
+C:\Users\Иришка\Desktop\ws 8\obj\Debug\net6.0\ws 8.AssemblyInfo.cs
+C:\Users\Иришка\Desktop\ws 8\obj\Debug\net6.0\ws 8.csproj.CoreCompileInputs.cache
+C:\Users\Иришка\Desktop\ws 8\obj\Debug\net6.0\ws 8.dll
+C:\Users\Иришка\Desktop\ws 8\obj\Debug\net6.0\refint\ws 8.dll
+C:\Users\Иришка\Desktop\ws 8\obj\Debug\net6.0\ws 8.pdb
+C:\Users\Иришка\Desktop\ws 8\obj\Debug\net6.0\ws 8.genruntimeconfig.cache
+C:\Users\Иришка\Desktop\ws 8\obj\Debug\net6.0\ref\ws 8.dll
